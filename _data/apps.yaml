@@ -116,3 +116,12 @@
   icon: https://raw.githubusercontent.com/omgmog/tingbot-adventure-time-giphy/master/src/icon.png
   github_url: https://github.com/omgmog/tingbot-adventure-time-giphy
   zip_url: https://github.com/omgmog/tingbot-adventure-time-giphy/releases/download/1.0.0/Adventure.Time.Giphy.tingapp.zip
+
+- name: My friend BMO
+  creator: crilla
+  version: v0.1
+  modified_date: 23 Sep 2016
+  background_color: "d2fde3"
+  icon: https://raw.githubusercontent.com/crilla/tingbot-bmo-friend/master/bmo_poke.tingapp/icon.png
+  github_url: https://github.com/crilla/tingbot-bmo-friend
+  zip_url: https://github.com/crilla/tingbot-bmo-friend/archive/master.zip
